@@ -19,10 +19,6 @@ body{
     font-size:14px;
     font-family: 'Raleway', sans-serif;
     color:white;
-    /* background-image:url(images/bg-desktop.png);
-    background-repeat: no-repeat;
-    background-position-y:50vh;
-    background-size:auto; */
     background-color:var(--very-dark-blue);
     display:flex;
     justify-content:center;
@@ -43,7 +39,7 @@ body{
     width:920px;
     display:flex;
     justify-content:space-between;
-    align-items:end;
+    align-items:flex-end;
 }
 
 .one{
