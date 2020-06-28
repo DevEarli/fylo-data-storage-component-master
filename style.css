@@ -122,6 +122,7 @@ body{
     display:inline-block;
     font-size:.8rem;
     font-weight:700;
+    letter-spacing:1px;
     margin-left:10px;
     color:var(--grayish-blue);
 }
